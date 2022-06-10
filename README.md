@@ -1,2 +1,2 @@
 # client_syncgit
-123213123123
+sync ngc lai
