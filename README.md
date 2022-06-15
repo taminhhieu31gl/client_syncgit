@@ -1,2 +1,2 @@
 # client_syncgit
-sync ngc lai
+sync to gitlab
